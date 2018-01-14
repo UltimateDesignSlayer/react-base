@@ -10,6 +10,5 @@ Otherwise (has sourcemaps, nothing minified):
 ```npm run build```
 
 ## CSS
-
 * Using sass.
 * Structure - Try to follow InuitCSS.
