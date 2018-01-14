@@ -11,5 +11,5 @@ Otherwise (has sourcemaps, nothing minified):
 
 ## CSS
 
-Using sass.
-Structure - Try to follow InuitCSS.
+* Using sass.
+* Structure - Try to follow InuitCSS.
