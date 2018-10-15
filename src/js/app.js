@@ -1,5 +1,6 @@
 import React, {Component} from 'react'; // used to create and manage components
 import ReactDOM from 'react-dom';
+import Textblock from './components/textblock.js';
 
 class App extends Component {
   constructor(props) {
